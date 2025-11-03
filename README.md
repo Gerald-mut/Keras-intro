@@ -1,7 +1,6 @@
 # Learning Keras - Diabetes Prediction Project
 
-A beginner's journey into neural networks using Keras/TensorFlow. This project documents my first steps in building a binary classification model to predict diabetes using the Pima Indians Diabetes dataset.
-
+A beginner's journey into neural networks using Keras/TensorFlow. 
 ## About This Project
 
 This is my learning project as I explore the fundamentals of deep learning with Keras. The goal was to understand how to build, compile, train, and evaluate a simple neural network from scratch. I chose the diabetes prediction task because it's a clear binary classification problem with real-world medical data.
